@@ -1,6 +1,4 @@
 # handbooks
-Links to all the task team handbooks
-
 United Nations Statistics Division (UNSD) [handbook](https://unstats.un.org/bigdata/taskteams/satellite/UNGWG_Satellite_Task_Team_Report_WhiteCover.pdf) for creating statistics using satellite images.
 
 This handbook, written by members of the United Nations Task Team on Satellite Imagery and Geospatial Data, provides a guide for National Statistical Offices considering using satellite imagery (known as earth observations) data for official statistics. It was produced as an input to the United Nation Global Working Group on Big Data for Official Statistics report to the United Nations Statistical Commission for 2017.
