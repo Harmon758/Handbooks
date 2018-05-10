@@ -12,3 +12,5 @@ United Nations Statistics Division (UNSD) [handbook](https://unstats.un.org/bigd
 
 The Task Team on Mobile Phone Data has been reviewing the development in the use of mobile phone data for official statistics and drafted this guide to give elaborations for countries which are in the process of designing project for using mobile phone data for their
 official statistics or are in the implementation process. The guide is to be published only in electronic format and in English and is expected to be reviewed and amended as projects are being advanced.
+# Scanner Data
+United Nations Statistics Division (UNSD) [handbook](https://unstats.un.org/bigdata/taskteams/scannerdata/workshops/Presentation_scanner%20data_Bogota_ABS.pdf) for creating statistics using scanner data.
