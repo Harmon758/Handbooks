@@ -10,7 +10,6 @@ In the final chapter, guidelines are presented for National Statistical Offices 
 # Mobile Phone Data
 United Nations Statistics Division (UNSD) [handbook](https://unstats.un.org/bigdata/taskteams/mobilephone/Handbook%20on%20Mobile%20Phone%20Data%20for%20official%20statistics%20-%20Draft%20Nov%202017.pdf) for creating statistics using mobile phone data.
 
-The Task Team on Mobile Phone Data has been reviewing the development in the use of mobile phone data for official statistics and drafted this guide to give elaborations for countries which are in the process of designing project for using mobile phone data for their
-official statistics or are in the implementation process. The guide is to be published only in electronic format and in English and is expected to be reviewed and amended as projects are being advanced.
+The Task Team on Mobile Phone Data has been reviewing development in the usage of mobile phone data for official statistics and drafted this guide to give elaborations for countries which are in the design or implementation process for projects using mobile phone data for their official statistics. The guide is to be published only in electronic format and in English and is expected to be reviewed and amended as projects are being advanced.
 # Scanner Data
 United Nations Statistics Division (UNSD) [handbook](https://unstats.un.org/bigdata/taskteams/scannerdata/workshops/Presentation_scanner%20data_Bogota_ABS.pdf) for creating statistics using scanner data.
